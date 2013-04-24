@@ -2,7 +2,10 @@ wakame-vdc very fine faq - beta
 
 Wakame-vdc is an IaaS (Infrastructure as a Service) cloud computing framework allowing you to manage a heterogeneous virtualization infrastructure.
 
-You can think of Wakame-vdc as an Virtual Data center
+Think of Wakame-vdc as a Virtual Data center.
+
+Wakame-vdc can be managed via the native web interface, a cli, or the wakame-vdc API.
+
 
 ==About==
 
@@ -38,7 +41,7 @@ LXC
 
 =====OpenFlow=====
 
-=====IPtables=====
+=====netfilter=====
 
 ===Interfaces===
 
@@ -82,7 +85,7 @@ https://github.com/axsh/wakame-vdc
 
 =====gui-manage=====
 
-====API Reference====
+=====API Reference=====
 
 
 ===Community===
@@ -90,8 +93,7 @@ https://github.com/axsh/wakame-vdc
 ====irc====
 irc://freenode/wakame-vdc
 
-====g-group====
-http://goo.gl/U96zf
-
-
+====g-groups====
+http://groups.google.com/group/wakame-ug?hl=en
+http://groups.google.com/group/wakametech?hl=jp (Japanese)
 
