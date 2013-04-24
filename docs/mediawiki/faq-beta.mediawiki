@@ -17,6 +17,12 @@ Wakame-vdc can be managed via the native web interface, a cli, or the wakame-vdc
 
 ==Framework==
 
+===Core Componenets===
+
+====vdc-manage====
+
+====vdc-hva====
+
 ===Sub-Systems===
 
 ====Hypervisors====
