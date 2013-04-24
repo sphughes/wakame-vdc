@@ -53,10 +53,7 @@ LXC
 
 ====api====
 
-
-==Support==
-
-===Documentation===
+==Documentation==
 
 ====Overview====
 
@@ -87,13 +84,14 @@ https://github.com/axsh/wakame-vdc
 
 =====API Reference=====
 
+==Support==
 
 ===Community===
 
 ====irc====
 irc://freenode/wakame-vdc
 
-====g-groups====
+====google-groups====
 http://groups.google.com/group/wakame-ug?hl=en
 http://groups.google.com/group/wakametech?hl=jp (Japanese)
 
