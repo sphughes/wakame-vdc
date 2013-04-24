@@ -1,0 +1,97 @@
+wakame-vdc very fine faq - beta
+
+Wakame-vdc is an IaaS (Infrastructure as a Service) cloud computing framework allowing you to manage a heterogeneous virtualization infrastructure.
+
+You can think of Wakame-vdc as an Virtual Data center
+
+==About==
+
+===Overview===
+
+===History===
+
+===License===
+
+==Framework==
+
+===Sub-Systems===
+
+====Hypervisors====
+
+=====Paravirtual=====
+
+KVM
+
+VMware ESXi - Limited Support
+
+=====OS-Level=====
+
+OpenVZ
+
+LXC
+
+====Storage====
+
+=====nfs=====
+
+====Networking====
+
+=====OpenFlow=====
+
+=====IPtables=====
+
+===Interfaces===
+
+====web-gui====
+
+====enhanced-web-gui====
+
+====cli====
+
+====api====
+
+
+==Support==
+
+===Documentation===
+
+====Overview====
+
+=====Requirements=====
+
+======OS======
+
+Wakame-vdc runs best on RHEL or CentOS 6.x
+
+====Installation====
+
+=====Downloads=====
+
+======RPMs======
+http://dlc.wakame.axsh.jp/packages/rhel/6/current/index.html
+
+======Source======
+https://github.com/axsh/wakame-vdc
+
+====Quick Start====
+
+
+====Administrator's Guide====
+
+=====vdc-manage=====
+
+=====gui-manage=====
+
+====API Reference====
+
+
+===Community===
+
+====irc====
+irc://freenode/wakame-vdc
+
+====g-group====
+http://goo.gl/U96zf
+
+
+
