@@ -1,1 +1,21 @@
-My GitHub Page
+<HTML>
+<HEAD>
+</HEAD>
+<BODY style="font-size:large">
+This is a GitHub Page. It is generated in an orphan branch of my project called "gh-pages".<br />
+<div id="create_orphan" style="font-size:medium; color: purple">
+<br />
+To create the orphan branch:<br />
+<br />
+<code style="font-size:medium; color: blue">
+git symbolic-ref HEAD refs/heads/gh-pages<br />
+rm .git/index<br />
+git clean -fdx<br />
+<br />
+echo "This is a GitHub Page" > index.html<br />
+git add .<br />
+git commit -am "Initial Github Page"<br />
+git push origin gh-pages</code>
+</div>
+</BODY>
+</HTML>
